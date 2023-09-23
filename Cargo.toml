@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "reaver_ecs",
+]
+resolver = "2"
